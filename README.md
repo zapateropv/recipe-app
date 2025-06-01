@@ -1,5 +1,7 @@
 # React + Vite
 
+ A RECIPE WEBSITE MADE BY TAILWIND AND REACT USING DUMMY JSON DBS
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
